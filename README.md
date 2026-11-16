@@ -2,15 +2,12 @@
 
 ### Junior Full-Stack Developer | JavaScript · TypeScript · Python
 
-I'm a third-year Web Development & AI student at **EFREI Paris**, 
-currently looking for an internship or apprenticeship in software development.
 
-With a background in Technical Art from **Rubika Montréal**, 
-I enjoy working at the intersection of technology, problem-solving 
-and creative thinking.
+I'm a third-year Web Development & AI student at **EFREI Paris**, with a background in Technical Art from **Rubika Montréal**.
 
-I'm particularly interested in building web applications, 
-backend development, API integration and AI-powered tools.
+I'm interested in building software solutions, developing web applications and exploring the intersection of software engineering and AI.
+
+I'm currently looking for an **internship or apprenticeship** where I can contribute to real-world projects, strengthen my technical skills and learn from experienced developers.
 
 ---
 
@@ -20,7 +17,7 @@ backend development, API integration and AI-powered tools.
 - JavaScript, TypeScript, Python, SQL, C#
 
 **Frontend**
-- HTML, CSS, React
+- React, HTML5, CSS3
 
 **Backend**
 - Node.js, Express.js, REST APIs
@@ -30,6 +27,17 @@ backend development, API integration and AI-powered tools.
 
 **Tools**
 - Git, GitHub, Docker, Jira
+
+---
+
+## 💼 Professional Experience
+
+### Behaviour Interactive — Technical Artist
+*Montréal, Canada*
+
+- Developed a Python validation tool integrated into an existing production pipeline.
+- Collaborated with technical and creative teams to understand requirements.
+- Contributed to improving production workflows through automation.
 
 ---
 
@@ -54,7 +62,7 @@ A responsive movie streaming website built as a frontend project.
 
 ## 🎓 Education
 
-- **EFREI Paris** — Bachelor's Degree in Web Development & AI
+- **EFREI Paris** — Bachelor's Degree in Web Development & AI (B3, in progress)
 - **Rubika Montréal** — Technical Art, graduated in 2025
 
 ---
